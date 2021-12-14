@@ -23,17 +23,16 @@ Please adhere to this project's `code of conduct`.
 
 ## Screen Shot of PDF 
 
-![pdf-sss](/images/pdf-ss.PNG)
-
+![pdf-sss](/images/pdf-ss.png)
 
 
 
 
 ## Final Pandas from the  project
 
-![final-ss](/images/final-ss.PNG)
+![final-ss](/images/final-ss.png)
 
 
 
 ## CSV-Output
-![csv-output](/images/csv-output.PNG)
+![csv-output](/images/csv-output.png)
