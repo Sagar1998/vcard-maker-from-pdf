@@ -23,7 +23,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Screen Shot of PDF 
 
-![PGADMIN DB CREATE](/images/pdf-ss.PNG)
+![pdf-sss](/images/pdf-ss.PNG)
 
 
 
@@ -31,9 +31,9 @@ Please adhere to this project's `code of conduct`.
 
 ## Final Pandas from the  project
 
-![PGADMIN DB CREATE](/images/final-ss.PNG)
+![final-ss](/images/final-ss.PNG)
 
 
 
 ## CSV-Output
-![PGADMIN DB CREATE](/images/csv-output.PNG)
+![csv-output](/images/csv-output.PNG)
